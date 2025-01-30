@@ -1,10 +1,25 @@
 2019-1
+1. Super facil. Manejar bien comando SI y CONTAR.SI
+2. Habia uno donde habia que diferenciar A1 de $A1 de A$1 para poder resolverlo
 2020-1
+1. Mover la formula = SUMA(A1:C3) que se encontraba en E1 a F2   
+2. Para que valores de A2 y B2 se cumple que la formula(C1 = 3)  =A2*B$2 -C1 sea igual a 3
+3. La ecuación =A2*B$2 -C1 se encuentra en C2 ¿Cual seria su valor en C4?
 2020-2
+1. Trasladar la función =SUMA(A1:$C2) desde la casilla D1 a la D2
+2. Valor que va a tomar una celda dadas ciertas condiciones
+3. Valor que debe tomar una celda para que la condición se cumpla
 2021-2 (online)
-2022-2 
+FFF
+2022-2
+1. valor de la celda si se copia un comando de otra celda 
 2022-1
+FFF
 2023-1
+FFF
 2024-1
+FFF
 2024-2
+1. Aplicación de PROMEDIO.SI( )  y CONTAR.SI()
+2. Aplicación de Min()
 

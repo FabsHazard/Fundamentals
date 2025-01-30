@@ -1,10 +1,91 @@
 2019-1
+1. árbol de probabilidad (grupos A,B,C, cada uno contesta o no; dan los totales de cada grupo y pedían cuántos contestaban llamadas)
+2. calcular coef. de determinación
+3. Test H
+4. Calcular recta reg. lineal
+5. calcular R^2
+6. Probabilidad Condicional (campos de uvas infectados)
+7. Test Chi^2
+8. E(N(N-1)) de una Poisson
+9. árbol de prob. (recibir o no cartas)
+10. EMV
+11. Calcular R^2
+12. Calcular R^2
 2020-1
+1. Usar bayes
+2. Estandarizar 
+3. X = cantidad de accidentes en una calle X ~ Poisson(λ) λ= 2 accidentes por semana. Se pide la probalidad para  x = 10  accidentes, pero en de 50 semanas 
+4. Binomial 
+5. Intervalo de Confianza
+6. Obtener el coef. de correlación 
+7. Calcular el valor de R^2 sabiendo la desviación estandar de s_x e s_y, y tambien la recta.
+8. Sabiendo el valor de S_{xx} Y S_{yy}. Para calcular S_{e}^2 es no es necesario saber alguna de las siguientes respuestas.
 2020-2
+1. Determinar E[x] a partir de una función densidad f(x)=3x^2/8
+2. Determinar E[X] a partir de una función densidad a tramos: f(x): 2x/3 para 0<x<1; -x/3 +1 para 1<x<3
+3. A partir de datos entregados de una muestra, determinar la regresión lineal que mejor se aproximaba
+4. Otra de regresión lineal, lo mismo que la anterior
+5. Determinar la probabilidad de sobrevivir 4 tormentas seguidas según probabilidades que daban (árbol de probabilidades)
+6. Pregunta sobre el concepto de regresión lineal, lo que significa y las carácterísticas del gráfico 
+7. Otra de regresión lineal, dan los datos sum(x), sum(x^2), sum(y), sum(y^2), sum(xy)
+8. Test de hipótesis: dan los datos para determinar el z, y hay alternativas para ver si se acepta o rechaza y con qué valor de significancia
 2021-2 (online)
-2022-2 
+1. intervalo de confianza con dev conocida
+2. probabilidad de eventos independientes
+3. regresion lineal
+4. Poisson
+5. Habia uno tipo "falso positivo/negativo"
+6. Calcular distribucion normal, dado media y desviacion estandar
+2022-2
+1. Probabilidad de que andrew aparezca en una pelicula dado que dijo que no iba a salir | Diagrama de arbol, daban probabilidades de que APAREZCA en una pelicula o no y prob.
+ de que DIJERA que saliera o no en la pelicula
+2. Diagrama del arbol
+3. Diagrama del arbol
+4. Diagrama del arbol
+5. Test Hipotesis
+6. Test Hipostesis
+7. Dado fxy sacar la marginal de x
+8. Test de poblacion
+9. Intervalo de confianza
 2022-1
+1. Test Chi-Cuadrado
+2. Test Chi-Cuadrado
+3. Regresión lineal, obtener y = a + xb (te dan las sumatorias) y la cantidad de n
+4. Regresión lineal obtener el valor de b (te dan las sumatorias y el valor de n)
+5. Intervalos de confianza con sigma conocido
+6. saber utilizar pnorm() (R) dada la media y desv estandar
 2023-1
+1. Prob Condicional
+2. Poisson con prob
+3. Prob Totales
+4. Test Hipotesis
+5. Test Bondad de Ajuste
+6. Test si la distribucion es gamma
+7. Prob de que pasaran 4 maletas el check in si la media era 110 y la desv era ?  de cada maleta, pedian que cada una fuera menor o igual a 120
+8. Intervalo de confianza con sigma desconocido 
+9. Numero de población para un nivel de confianza y un cierto error
+10. Chi Cuadrado
 2024-1
+1. Probabilidad condicional. Eventos de un día cualquiera: Lluvia 70% y soleado 30%. Podía haber viento: en lluvia 75%, en día soleado 20%. 
+Obtener probabilidad de lluvia dado que hay viento.
+2. Probabilidad de una normal. | Según recuerdo hablaba del consumo en un hogar.
+ La media de consumo era 40kW, la desviación estándar era 10kW, te pedían determinar la probabilidad de que el consumo fuera mayor a 50kW
+3. Poisson | Te daban la media que una barra tuviera una grieta en un metro (que tuviera una grieta era Poisson) y luego te preguntan por la probabilidad que una barra de tres metros no tuviera grietas.
+ La tasa de grietas por metro lineal era 0,3. Te decían que se tenía una barra de 6 metros, y te pedían calcular la probabilidad de que NO tuviera ninguna grieta.
+4. Intervalo de confianza | <--- De una distribución t-Student. Media 34,3; Desviación estándar muestral de 4,7 (creo) y n = 144, con 90% de confianza (era 1.645 en tabla)
+5. Hipotesis | comparación de medias con Z0>Zalpha | Creo que pedían determinar si las medias de tiempos de dos grupos de atletas eran diferentes. Daban una tabla con n = 7 para ambos grupos, y sus respectivas medias. La desviación estándar era 0.7 para ambos grupos. Más no recuerdo
+6. Hipotesis | Xi cuadrado con tabla, similar al ejercicio del 2023 | Acá había que no confundir el n del tamaño de la muestra y de la cantidad de intervalos, tener claro cuando se descarta la hipotesis y no caer en la comprensión lectora ya que la pregunta era como "cuando se rechaza que no se cumple". Entender como buscar el coeficiente asociado a alpha y el n en la tabla del Chi cuadrado
+7. Intervalo de confianza
+8. Probabilidad de una normal
+9. Ejercicio Uniforme (0, 24) y nos pedian la probabilidad de que ese evento ocurra entre 8 y 18 horas | <-- El contexto del ejercicio es que la probabilidad de cortes de luz diarios en una fábrica distribuían Uniforme, como dice el compañero, empezando a las 00:00. Luego, pedían la probabilidad de que un corte ocurriera entre las 8 y las 18 horas. Recuerdo que era 41,6% approx.
+10. Regresión lineal, identificar a y b | Te daban el promedio de x e y, la suma de x^2 y la de y^2, te piden el a y b 
 2024-2
+1. Test de Bondad Dde Ajuste
+2. Test De Hipotesis
+3. regresion lineal | Te daman las sumatorias
+4. integrar funcion densidad
+5. integrar funcion densidad
+6. log normal
+7. Intervalo de confianza
+8. Teorema de probabilidades totales
 

@@ -1,10 +1,54 @@
 2019-1
+1. Potencial de un anillo y un arco con ángulo
+2. cálculo de C con w=1/sqrt(LC)
+3. Potencial esfera en región r>b (con 0<a<b<r)
+4. Corriente de un circuito + Campo magnético
+5. Cálculo de flujo eléctrico de un plano con carga puntual
+6. A y B con igual carga, pasa C sin carga (toca primero a A y luego a B), cuál es la fuerza del sist. AB? Con F=Fuerza inicial
+7. Esfera maciza aislante con carga Q 
+8. cálculo de R en un circuito con un generador de 120V, una batería de 100V con resist. interna de 1R
+9. V entre puntos a y b en un circuito con 3 fuentes de poder, y (5?) resistencias}
+10. Sentido de corriente de un circuito cuando se pasa un imán
+11. Intensidad en un circuito con fuente de poder y resistencia, a traves del cual pasa un campo magnetico que varia en el tiempo
 2020-1
+1. Calcular arreglo de resistencias
+2. Evaluar cómo evoluciona la energía de un e- a medida que pasa por equipotenciales de diferente valor
 2020-2
+1. Definición de Voltaje
+2. Carga positiva en (0,2) y carga negativa en (5,2). Revisar caracteristicas del campo electrico en (7,2)
+3. Para un circuito con un interruptor abierto, una resistencia y un capacitor determinar la corriente en t=1 seg luego de cerrar el circuito
+4. Responder a partir de una figura que mostraba las lineas equipotenciales de 4 cargas (2 positivas y 2 negativas)
+5. Dados dos focos alimentados por la misma batería, se quema el filamento de uno pero el otro sigue encendido, ¿por qué sigue encendido?
+6. Dadas dos placas, responder qué cosas son correctas
+7. Confoguración de Einzel lens, responder cómo son las líneas de campo eléctrico dados cambios de potencial
+8. Cómo debería ser un oscilograma dado un circuito abierto con voltaje y sabiendo que es corriente continua
+9. Dado un filtro de paso bajo, calcular valor de V´, a partir de V, R, C y sabiendo que la frecuencia de V es f
+10. Definición de fem
+11. Cilindro de Wehnelt, qué hace el cátodo y ánodo
+12. Circuito integrado, calcular el valor de C sabiendo C, V y la frecuencia del voltaje alterno
 2021-2 (online)
+F
 2022-2 
+1. "Habilidad de un material de conducir la electricidad" | Conductividad electrica ? |
+2. Calculo fuerza entre cargas
+3. Calculo fuerza entre cargas, era una molecula de agua, donde el O (N=8) y los 2 H(N=1) generaban un angulo de 140º
+ y el largo que unia los H con el O era 96pm, las cargas eran dependiendo del numero atomico de los atomos | Te daban el k y el e(coulumb), se podia despegar el angulo entre los enlaces(largo entre atomos)
+  y sacar las coordenadas de seno y coseno por el 96pm (ojo resultado expresado en metros)
+4. Circuito cruzado, calcular voltaje 
+5. Te daban un grafico y formula de E y te pedian el potencial 
+6. Dibujos de como es un grafico de campo electrico, saber diferenciar cuando entraban y salian las lineas si era una carga positiva o negativa
+7. Autoinductancia, una corriente (izq. a der.) viajaba por una bobina (1) y producia un campo magnetico (hacia abajo), al lado, habia otra bobina (2) con una corriente(en sentido opuesto a la bobina anterior 1). Preguntaban cuando se generaba un campo magnetico en la otra bobina (la 2):
+    a) cuando se movia verticalmente la bobina
+    b)se movia horizontalmente la bobina 
+    c)no se movia d)no recuerdo  
+8. Inducción, calculo del voltaje de un cable enrrollado a un cilindro, daban el B(campo magnetico), N (revoluciones por segundo)
+9. Saber como se comportaba el voltaje de una carga positiva al final de la trayectoria que pasaba entre dos placas uno con V+ y otro con V-
+
 2022-1
 2023-1
+1. puras preguntas de teoria y definicion de conceptos
+2. pregunta de unidades de medida de campo electrico (salia en el HB) 
 2024-1
+F
 2024-2
-
+F
