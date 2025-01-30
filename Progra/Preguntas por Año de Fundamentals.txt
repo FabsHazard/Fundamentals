@@ -1,10 +1,29 @@
 2019-1
+1. Principalmente comparar errores de codigos y outputs
 2020-1
+1. Clases de Python
 2020-2
+1. Pseudocódigo para ordenar dos listas dadas de menor a mayor
+2. Pregunta de una clase definida
+3. Dado un código, qué valor debería tomar la variable i (dentro de 3 while con condiciones)
+4. Otro algoritmo de orden, acá faltaba una línea en el código y había que ver cuál servía para que el programa pudiese ordenar de menor a mayor dada una lista
+5. Valor de una multiplicación entre dos elementos de un arreglo
+6. Dado un programa que va seleccionando según un operador matemático los elementos de una palabra, qué letras imprime
 2021-2 (online)
 2022-2 
+1. Que imprimia el comando, dadas unas variables(strings) habia que ver igualdades
+2. Que imprimia el comando 
+3. Que significaba el comando, var=0, numero cualquiera (a), a=numero%10 y despues var+=numero //10
+4. Funcion recursiva
 2022-1
 2023-1
+1. Te ponían 3 pseudocódigos y te preguntaban cual daba un resultado distinto de la variable a que se modificaba
+2. Variables con uso de //
+3. Variables con uso de // y %
+4. Variables con uso de / y %
 2024-1
+1. saber que significa // % te daban un int muy grande y tenias que encontrar la alternativa que no producia como resultado un int cualquiera de 5 digitos
+2. Clases | tenias que aplicar los metodos de una clase que te daban para llegar a los valores de dos variables
+3. elegir el codigo donde "num" fuera multiplo de 7 y booleano False
 2024-2
-
+1. La mayoría era uso de ciclos que cambiaban listas, contanban letras repetidas, veian de la sección de una palabra estaba dentro de otra, etc
