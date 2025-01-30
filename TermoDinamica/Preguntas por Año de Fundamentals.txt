@@ -1,10 +1,60 @@
 2019-1
+1. tabla agua
+2. tabla agua
+3. tabla agua
+4. equilibrio termico
+5. si aumenta en 20C, cuánto equivale en F Y R
+6. Expansión lineal (alfa*L*t)
+7. Compresión isotérmica pistón, qué pasa con energía interna
+8. temperatura por si sola, T + Calor especifico + presion o + entalpia o + entropia
+9. entropía de un sistema aislado puede disminuir? | permanece constante porque no hay flujo de energia
+10. análisis punto triple de una sust x (grafico)
+11. COP refrigerador cuando cambia la Th (entre 100 y 500K) | Originalmente salia 227 y -173 Celsius
 2020-1
+1. Unidades de t°
+2. Unidad de t°
+3. como funciona el termómetro
+4. Tabla Vapor
+5. Tabla Vapor
+6. Diagrama de Fases
+7. Una reacción espontánea es? irreversible, reversible, cuasiestática, ninguna | Deberia ser irreversible porque genera aumento de entropia neta
+8. Calcular entropia de un vapor saturado.
 2020-2
+1. Si T aumenta en 20°C ¿Cual es su variación en °F y °R? | la fórmulo de C a F esta en la parte del principio del handbookla fórmulo de C a F esta en la parte del principio del handbook
+2. Ciclo de Carnot refrigeración: Determinar Eficiencia
+3. Determinar la energia interna de un vapor sobresaturado en el hb a partir de variables entregadas (P y T)
+4. ¿Como se comporta la entropia en un sistema cerrado? | 2daLey: En un sistema cerrado la entropia nunca puede decrecer hasta alcanzar el equiilibrio termodinámico
+5. ¿Como es la entropia para 2 trayectorias distintas?
+6. Transferencia de calor entre Agua y Cobre; determinar T final | Se usaba Q=m*Cp*ΔT, se igualaban ambos
+7. Determinar energía interna de un líquido saturado a 295°C (ver la tabla de vapores)
+8. Dadas condiciones de T y v específico, dterminar liq sat, vap sat...
+9. Dadas P externa e interna, Vi y Vf, determinar cambio de energía interna del sistema con una entrada de Q=500J
+10. Proc adiabático y reversible es? Isoentrópico | Respuesta en el handbook
+11. Determinar COP dadas T_L y T_H
 2021-2 (online)
+FFFFFFFF
 2022-2 
-2022-1
-2023-1
-2024-1
-2024-2
+1. Punto de congelación y ebulición de un tipo de alcohol en escala Rº, llevarlo a Cº o Kelvin(no recuerdo bien)
+2. Hubo 3 preguntas sobre conversiòn de temperatura
+3. Hubo 3 preguntas sobre identificar datos en la tabla de vapor. En 2 de ellas nos pidieron la entropìa y como datos nos dieron la temperatura en grados Celcius.
+ Otra pedía decir cuánto era la calidad dando la entalpía final (habia que buscarla en el HB) y despegar la calidad.
+4. Buscar en la tabla de vapor en que estado estaba la sustancia dada una cierta temperatura
+5. En todos los procesos ¿ds es =, distinto, <= o >= a dQ/T? | Proceso reversible: dS = dQ/T                                              Proceso irreversible: dS>=dQ/T
 
+6. Calculo de la temperatura dado el largo de un material lineal, dado alpha, el Lo y el Lf |   L=alpha*Lo*deltaT 
+7. Calculo de la temperatura faltante dado una temperatura sumidero, te decian que tenia el motor una eficiencia del 60% | Ciclo carnot, nmotor= 0,6*ncarnot
+8. Cuantos grados en Rankine varia la temperatura si esta vario 20ºC | Habia que llevar de C a F y despues a Rankine, ojo con la diferencia de temperatura, las ctes se van
+
+
+2022-1
+1. Punto de congelación y ebulición del agua en escala Rº
+2. Hubo 3 preguntas sobre conversiòn de temperatura
+3. Hubo 3 preguntas sobre identificar datos en la tabla de vapor. 
+En 2 de ellas nos pidieron la entropìa y como datos nos dieron la temperatura en grados Celcius y el valor de la calidad
+
+2023-1
+1. habian como 4 preguntas sobre la entalpia 
+2024-1
+FFF
+2024-2
+FFF

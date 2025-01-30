@@ -1,10 +1,66 @@
 2019-1
+1. kps (formación de precipitado) | *no hay que aprenderse las aprox. | Creo que era PbSO3
+2. fracción molar con presiones parciales | *había mucha materia de solubilidad; no había cálculo de pH
+3. balance SEMIreacc. redox 
+4. ordenar compuestos según su pka (+fuerte a + débil) | Naftaleno, Acido Acetico y otra mas
+5. solubilidad
+6. párrafo gigante que hablaba de sustancias y su pH+solubilidad | Ejercicio teórico donde cambian una concentracion y hay que saber que significan en el pH, en el equilibrio y otros 
+7. foto de NaCl, caract. de compuestos iónicos | Principalmente tipo de enlace, significado de iones y que sucede con los electrones
+8. Metanol y Glicerol
 2020-1
+1. Calcular densidad, con masa y v
+2. Calcular PH
+3. Calcular OH
+4. red cristalina (unidad base)
+5. coeficiente Factor de van't Hoff
+6. precipitado Kps vs Q
+7. Si tienes CO y CU, con sus M + le echas OH-, cual precipita primero. Te dan los Kps
+8. Como se mueven los electrones en una celda foto voltaica de Fe y Ag
+9. Calcular Ka para un ácido débil
+10. Una sustancia blanca en estado sólido no conduce electricidad, pero si está en estado líquido, sí. 
+Qué es? opciones: sólido con enlace metálico, sólido covalente, polimeros(?
+11. Cual es más conductor, ordénelos? salía un carburo, Nacl, H(algo)
 2020-2
+1. ¿Cual de los siguientes compuestos corresponde a una disolución basica? (daban 4)
+2. Determinar reactivo limitante en combustión de Etano
+3. Si tengo M=0,1. ¿Cuantos moles de NaOH hay en 250 ml?
+4. Determinar masa molar de la adrenalina sabiendo que agregar cierta cantidad a una solución de CCl4 provoca cierto aumento en T° de ebullición |
+Primero calcular molalidad , molalidad= moles de soluto/ kg de disolvente. Luego Delta T = K * molalidad 
+https://www.youtube.com/watch?v=j0LnQ3_ltQk
+5. Determinar cuánto cable de cobre puedo fabricar (con diámetro 8.25 mm) dando la masa de un lingote de cobre (150 lb) y su densidad (8.94 g/cm^3)
+6. Reacción de 2 mol de PCl5 y 1 mol de PCl3, Kc = 0.042, Cl2 obtenido: 0.28 mol. Determinar concentraciones de PCl5 y PCl3, y % de reacción
+7. Qué sucede al aumentar el volumen de un gas (relación PV)
+8. Reacción de Zn -> Zn2+ + 2e-
+9. Cuántos gramos de NaOH añadir para lograr concentración 0.1M en 500ml de agua
+10. Pregunta de materia acerca del EEH
+11. Pregunta de materia acerca de la teoría de Bronsted y Lowry
 2021-2 (online)
+FFFFFFFF
 2022-2 
-2022-1
+1. Masa de una sustancia dado una densidad
+2. I. NaCl diluido conduce electricidad II III  | Preguntaban mucho de las propiedades del NaCl
+3. Cual era + acido dado un Ka
+4. Cual era la base conjugada mas fuerte de 4 compuestos daban el ka de c/u
+5. Cual de las sustancias conducia + la electricidad: sacarosa, NaCl, acido(ka=algo*10^-5?) o otro acido (ka=1,8*10^-2?) |
+Preguntaban harto de la conductividad electrica de las sustacias, especialmente en acidos y basicos|
+creo que la sal es mejor conductora que un acido. y para comparar acidos, el que tenga mayor Ka es mas acido, por lo tanto, mas conductor 
+6. Calculo ph dado un 0,005%v/v si habia 100 ml de HCL y se llenaba esta hasta 500 ml (no recuerdo si de agua o un disolvente cualquiera)
+7. Daban la figura de un solido cristalino, cubo (4 cubos dentro) I II III FCC IV un atomo era el centro del tetraedro nose que
+8. Daban una reaccion lista de Redox en medio acido (no aparecian los electrones)
+9. Escoger entre V: a) electrones viajan por el puente salino b)los iones viajan por el cable c)no me acuerdo pero esta era la V d)para ser espontanea la Eº debe ser - 
+10. Cálculo de Q. Daban la Kc. Predecir a que lado iba la reaccion | COMPARAR q Y Kc
+11. Solubilidad (Kps): te daban ecuacion y preguntaban cual tenia mayor kps dependiendo de la concentracion
+12. Celda de zinc y hidrogeno, preguntaban quien se reduce
+2022-1 
+1. Diagrama de fases 
+2. Ejercicio de buffer, de un ácido débil. Pedían la concentración inicial de la sal y recuerdo que daban el ph | Repasar ese tipo de ejercicios porque en la guías no vi ninguno :(
+3. Cálculo de Kp. Daban la reacción, Delta H, Delta S y la T    
 2023-1
+1. Preguntas de celdas y sus propiedades, una era Zn/ Zn+2 // Cu+2 / Cu
+2. Otra celda, H+/H2 // Cu+2 / Cu, tenias que ver que afirmaciones eran correctas, una decia que el voltaje de el hidrogeno, por referencia era cero 
 2024-1
+1. Usar el Kc con concentraciones
+2. lo de las pilas (ns como era) Ev/Evo y cosas así 
 2024-2
+FFFFFFFFs
 
