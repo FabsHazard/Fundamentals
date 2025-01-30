@@ -1,0 +1,51 @@
+2019-1
+1. Funcion que da origen a las curvas de nivel que eran sin zig-zag raro. Si no estoy mal, eran curvas de nivel de f(x) = x-Sin(y)
+2. Derivada Direccional
+3- Ec plano ercta ec parametricas
+
+
+2020-1
+1. Encontrar el grafico de f(x,y)=x-ln(1+|y|)
+2. Derivada Parcial
+
+2020-2
+1. Determinar centro de masa para la región comprendida entre y=x^2 e y^2=x con una densidad p=y
+2. Determinar masa del octante comprendido por x,y,z >0 de la función z^2 + y^2 + z^2 <= a^2, cuya densidad está dada por p = kxyz
+3. Centro de masa del cuerpo determinado por [0,1],[0,1][0,2] y densidad = 9-z^3
+4. Curvas de nivel de z
+
+2021-2 (online)
+1. Centroide Zc de z=2-2|y| y |x| menor o igual a 1
+2. Curvas de nivel de f(x,y)=(x+2y)^2
+3. Derivada direccional de f(x,y,z)=x^2y/z con u=(1/sqrt(2), 0, 1/sqrt(2))
+4. derivada direccional de e^(arctan(x+y) en u=(1/sqrt(2), 1/sqrt(2))
+
+2022-2 
+1. Derivada direccional 
+2. Curva de nivel
+3. Derivada direccional  Derivada dirrecional en el origen y direccion de theta= pi/6
+4. Sacar el centro de masa | Daban la densidad = z+1 creo
+
+2022-1
+1. Sacar la masa con densidad rho(x,y)=r, mediante coordenadas polares entre: 0<r<(2pi+theta) y (0<theta<2*pi).  Recordar el jacobiano
+2. Sacar el volumen dado las coordenadas de r, theta y z en coordenadas cilíndricas
+3. Curva de nivel f(x,y) = 3*|x-1|+|y+1| 
+4. Derivada direccional. Lo difícil fue que cuando sacas la gradiente en ambas coordenadas te quedaban con variables X e Y en cada uno
+
+2023-1
+1. Centro de masa (x,y,z), entre x^2 + y^2 <= 1 y x^2 <= z <= 1-x, densidad = 1+cos(x)+y. Cual era NULO?
+2. Revolucion de una area respecto al eje x
+3. Sacar area en polares, daban rango de theta y r
+4. El mayor valor que da la derivada direccional 
+
+2024-1
+1. Curva de nivel | Era la típica imagen donde queda visible el máx o mín aproximado con esto tenías un (x,y) del máx/mín,
+ luego las alternativas eran funciones (x,y) que sacabas el gradiente, lo igualas a 0 y el x e y tienen que quedarte parecido al del mín máx
+2. Integral de volumen
+3. Cuando un centro de masa x  es nulo | -1<=x<=1            -1<=y<=1       0<=z<=f(x,y)      tepreguntaban para que f(x,y) el centro de masa era nulo
+4. Volumen de un sólido de revolución | Entre 0 < x < 1 ; 0<=y<=e^x ; volumen al girar en torno a x
+
+2024-2
+1. Curvas nivel
+2. Curvas nivel
+3. Volumen en coordenadas cilindricas | Te daban la formula del volumen, solo habia que integrar

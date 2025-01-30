@@ -1,0 +1,59 @@
+2019-1
+1. traspuesta de una expresión larga de A^tBB^tAB...
+2. ortogonalidad de vectores
+3. matriz de cambio de base B2 (dan B1, v=1,x,x^2 y el polinomio p(x)=(a-b)x^2+(a-b)x+c)
+4. Cramer
+2020-1
+1. Hallar la matriz de cambio de base P_{ B1-> B2]
+2. Calcular el determinante de una matriz 
+3. Combinación convexa de los vectores (1,1,0) y (0,1,2)
+4. Valor de alfa para que el sist no tenga solución
+2020-2
+1. Para una matriz A dada, calcular el determinante luego de realizar ciertas operaciones elementaltes
+2. Calcular un vector propio de una matriz
+3. Determinar cual de las matrices que mostraban no era equivalente a la matriz identidad
+4. Determinar la matriz cambio de base dado un polinomio
+2021-2 (online)
+1. Matriz y polinomio de transformacion
+2.
+3. Encontrar la inversa de A^2-3A+I=0
+4. Como afectan las transformaciones elementales y no elementales en un determinante conocido de una matriz cuadrada
+2022-2 
+1. Buscar la matriz que NO era invertible
+2. Daban una expresion de matrices igual a M y tenias que encontrar la expresion de M transpuesta
+3.  Dada una transformación de R^2 a Polinomio buscar la matriz que la lleva el vector=(a,b,c) al polinomio T(vector) = c +algo
+
+2022-1
+1. -Transf base:
+Base{1,x}
+Base2{1,x,x^2}
+
+Transformar el polinomio: 
+Ax^2 + bx + c = (a+b) - (2a + 3c)x
+
+¿Cual es la matriz de transformacion?
+------------------------------------------------------------------------------------------
+2. identificar que trio de vectores  era L.I
+------------------------------------------------------------------------------------------
+3. (Selección múltiple) Dado matrices A y B cuadradas y además que A y A + B son invertibles: I. B siempre es invertible ;
+II. B*A^-1 siempre es invertible ; III. I + B*A^-1 siempre es invertible
+2023-1
+1. Llevar la matriz a una fer y contar los pivotes
+2. (B A)^-1(A^T B^T)^T
+3. Sacar el det de una matriz diagonal superior
+4. A y B simetricas definidad positivas I. xAx^T>0  II. A + B simetrica III. A+B invertible.
+2024-1
+1. Identificar si Ax = b tenia infinitas, nulas o 1 solución | A tenía filas desconocidas y x era un vector en R4.
+ En las opciones te daban caracteristicas de A (si sus filas eran LI o LD) y a partir de eso ver si b 
+2. Determinar el punto o el plano de x=-y+1=z | era usando ese tipo de ecuación de recta con forma t = (x - x0) / a = (y - y0) / b = (z - z0) / c,
+ por lo que me acuerdo era una recta con vector paralelo a (2, -2, 1) o algo así
+3. que matrices eran diagonalizables. 
+
+Una matriz era simétrica, y la otra era triangular inferior con valores propios distintos (diferentes coeficientes en la diagonal)
+alguien sabe cual daba? [a mí me dio que ambas eran diagonalizables pero en volá estoy mal]
+
+2024-2
+1. Propiedades determintes
+2. Inversa matriz 
+3. Elegir si I, II o III eran correctas en relacion a propiedades de traspuestas, invertibles, etc
+4. Calcular la traspuesta de M = AB^T ^-1..., etc 

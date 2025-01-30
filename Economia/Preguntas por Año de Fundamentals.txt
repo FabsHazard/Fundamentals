@@ -1,0 +1,68 @@
+2019-1
+1. condición para la renta monopólica | Precios sobre costo marginal, que exista la posibilidad de entrada de otras empresas, u otras cosas 
+2. si disminuye drásticamente el P de un sustituto B, qué pasa con A
+3. Gráfico O/D solo con O y CMg horizontal
+4. si un shock hace aumentar el costo de producción, qué pasa con of/dem/Q
+5. Diferencias entre economía liberal y una centralmente planificada | Ec centralmente planificada: el E° toma la mayoria de las decisiones / / ec liberal: "deja hacer"
+6. Caract. economía de mercado
+7. Gráfico monopolio con CMg horizontal (preguntaban por el precio de venta)
+8. pérdida de eficiencia
+9. VAN (era refácil, solo saber la fórmula); VAN a 3 y 6 años, con retorno de X e Y c/u
+10. Variacion de perdida de eficiencia, P y Q en un gráfico con un A más elástico que un B
+2020-1
+1. Al menos dos ejercicios de gráfico precio vs cantidad,donde habia que calcular excedente productor, consumidor, etc
+2. Que es el excedente del consumidor 
+3. Similitud entre monopolio y competencia perfecta 
+4. Un ejercicio del VAN
+5. Hallar elasticidad precio demanda del punto (40,60)
+2020-2
+1. Si disminuye la oferta en un equilibrio perfecto como se comportan las curvas
+2. Explicar qué es el valor presente neto 
+3. Explicar por qué se produce pérdida social en un monopolio
+4. Gráfico de oferta y demanda: decir si es una situación de equilibrio o no y por qué
+5. Diferencia de economía de libre mercado y economía perfectamente planificada
+6. Cirscunstancias que pueden generar un monopolio
+7. Qué es el costo alternativo, qué lo representa
+8. Gráfico con oferta infinita, qué implica
+9. Gráfico de oferta y demanda, donde el precio es más alto y las cantidades más bajas que en equilibrio. ¿Qué hay?
+10. Dado un gráfico, cuál es el área que representa el excedente de consumidor o del productor
+11. Dado un gráfico de monopolio, cuál es el excedente total
+12. Se tenía una inversión inicial de 90 M, pero ya se invirtieron 100 M, y para ejecutar el proyecto se deben invertir 100 M más, completando un total de 200 M.
+ ¿Costo hundido?¿Costo de oportunidad? Era decir cómo iba a influenciar sobre otros proyectos
+13.  Qué pasa si la curva de oferta se mueve hacia arriba
+2021-2 (online)
+2022-2 
+1. Costo hundido
+2. Requerimientos competencia perfecta: libre entrada y salida, bien homogeneo+
+3. Monopolio caracteristicas
+4. Monopolio para que tenga Beneficios=0 | Estudiar/calcular bien los costos, CMg, CT. Se necesita saber tb el calculo de ingreso relacionado con el Img
+5. Daban precio/unidad y unidad, sacabas la demanda y te preguntaban por ella
+2022-1
+2023-1
+1. Todas las preguntas tenían un párrafo al inicio que te recordaba un poco la materia antes del problema que te dan
+2. Te entregaban los flujos de caja descontados de un proyecto y te hacian preguntas sobre el cambio de la tasa de descuento, ahi tenias que elegir la alternativa correcta, onda, si la tir aumenta 
+a) los flujos de caja aumentan b)se mantienen c) disminuyen, y asi
+3. Te daban el valor de una TIR para un proyecto y los flujos de caja descontados (ya traidos al presente al aplicar la tasa de descuento).
+ Despues te preguntan por valores de la tasa de descuento y si, comparada con esa tir, el proyecto es o no conveniente.
+
+2024-1 
+1. Entre viajar y programar cual convenia (hay uno parecido en una guia) |Hacer un software ganabas $1500 y gastabas $500, viajar ganabas $1200 pero había un daño en tu marca de $400 por lo que convenía hacer el software  
+2. Excedente del consumidor
+3. Beneficio total (EC + EP)
+4. Q* si es que Ct = 1*Q^2 | Te daban el ingreso marginal= 22-4Q, costos totales CT(Q) =  1-Q^2 y una recta de demanda P = 22-2Q por lo que había que determinar el precio optimo
+5. Cambios en flujo de caja descontados si subia el tax de 27 a 28 | La pregunta era súper explicativa (una página de explicación) 
+te daban todos los valores (hasta el flujo de caja descontado y la fórmula) por lo que simplemente tenías que ver donde cambiaba el valor del tax. | disminuia fcl
+6. Cambios en flujo de caja descontados si subia r de 10 a 15% | disminuia fcl
+7. Te pedian el excendente social, te daban la recta de demanda y el precio marginal que también era el precio establecido por lo que no había EP
+ y el EC se sacaba entre la demanda y la recta del precio.
+8. Habia un ejercicio que preguntaban sobre un nuevo precio aplicando un subcidio
+9. Que pasa si baja demanda/ sube oferta, etc | Este era de elasticidad en la demanda y te daban la fórmula, había que notar que los cambios en el precio y cantidad estaban en porcentaje (como en la formula) 
+por lo que había que poner el número tal cual, además de pedirte el número te preguntan si era elástica o inelástica.
+10. VAN
+2024-2
+1. costo hundido, costo oportunidad o ingreso de oportunidad 
+2. Como cambia los flujos de caja descontados | Es la tipica que sale en las guias
+3. Calcular Precio a partir de CMG=IMG
+
+
+

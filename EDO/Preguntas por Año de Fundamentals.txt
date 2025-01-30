@@ -1,0 +1,54 @@
+2019-1
+1. mezclas en estanque | Visual. Sistema de ecuaciones que modela 
+2. tipos de EDO (1er/2do orden, lineal/no-l, homogénea/no-h)
+3. resolver EDO y'+x^2=y (algo así)
+4. sistema de ecuaciones
+2020-1
+1. Edo Temperatura 
+2. Ecuación logistica
+3. Clasificar una edo (y')3 + xy = 0
+4. Dada una clasificación encontrar una edo que la cumpla
+2020-2
+1. Determinar el grado de la ecuación y si era o no homogénea, lineal y con coefcientes constantes
+2. Ley de enfriamiento de newton, 
+determinar el tiempo necesario para que un cuerpo que se encontraba a una temperatura el doble del ambiente llegara a una temperatura 50% más alta que el ambiente
+3. Sistema de ecuaciones lineales con dos incógnitas
+4. Determinar de qué grado era la ecuación dados los parámetros m, p, q, t
+2021-2 (online)
+1. EDO separable dV/dt=-V-10/Tau
+2. sistema de EDOS
+3. Definir una EDO
+4. Matrices diagonalizables
+2022-2 
+1. resolver edo de tercer orden coef ctes (y''')
+2. Sistema Lineal
+3. Dados p,q,m,n decidir cual era homogenea, lineal, de que orden 
+4. Decidir cual era no homogenea, lineal y de 3ºorden
+2022-1
+1. Sistema de ecuaciones diferencial: [ dx/dt = 2x(t) + 3y(t) ] y [dx/dt = x(t) - 2y(t) ]
+2. Obtener la constante K de una EDO dada. Dicen que las condiciones son: x(30) = 600*0,1 y x(0) = 600*0,02. 
+3. Reconocer si es Lineal, Homogénea y de 1er orden
+2023-1
+1. Como es la ecuación y``+arctg(xy)-x; lineal/no lineal, homo/no homo
+2. Concentración de tanques
+3. Una que habia que usar la formula de crecimiento poblacional pero en otro contexto | se usaba para calcular los intereses de una inversión
+4. Sistema lineal [(3,2),(-9,1)]? | valores propios = 5 y -1
+2024-1
+1. EDO de la forma r"+r'+wr (algo asi) <-- eso era una introducción chamuyenta al problema.
+
+Luego te decían que la EDO era finalmente de la forma 
+
+r'' + r' + r = 0
+
+Luego preguntaban por el "comportamiento" de la solución de esta EDO.
+2. Sistemas de EDO | Te daban A (3x3) y el vector x(t) (x1(t), x2(t), x3(t)) | Lo tedioso era quedaba un valor propio por lo que era mucho de entender 
+que hacer en ese caso además te pedían el vector x1(t) por lo que no había que confundirse con los demás datos.
+3. El voltaje se describe con una EDO: V'(t) = k(12-V(t)), condición inicial V(0) = 0 | Te preguntaban por afirmaciones falsas? --> Si
+4. Identificar si una EDO es lineal, no homegenea y de segundo grado
+5. Entregaban una EDO donde la derivada de x era igual a una matriz A dada por x.
+
+Daban la forma de x (sus coordenadas), y pedían describir la forma de las primera componente x
+2024-2
+1. Sistema 2x2.
+2. Solucion de una EDO de segundo orden no homogenea, solo recuerdo que tenia un coseno.
+3. Resolver EDO por medio de valores y vectores propios.

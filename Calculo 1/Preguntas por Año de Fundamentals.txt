@@ -1,0 +1,37 @@
+2019-1
+1. análisis gráfico de e^sen |x|
+2. primitiva de f(x)=x/(x^2+9) (algo así)
+
+2020-1
+1. Grafica de exp(-ln(x)) | es lo mismo que el gráfico de 1/x
+2. Derivada de la función x^(1/x) | Usar fórmula del Handbook P.48, 15. y simplificar
+
+2020-2
+1. Determinar gráfico de la función e^(sen(sen(|x|))
+2. Para f(x)=(cos(x)+x)/(2+x), determinar asintota vertical y horizontal si es que las tiene
+
+2021-2 (online)
+1. Convergencia de series 
+2. Momento en y
+
+2022-2 
+1. Derivar función sen(x)/x
+2. Primitiva de (x^2+1)/(x^2-1)
+
+2022-1
+1. Identificar gráfico de (ln(1/x))^2
+2. Primitiva de Cos(x)/(1+Sen^2(x))
+
+2023-1
+1. Que función era el gráfico dado, alternativas: a)sen(pix)/x, d)cos(pix)/x^2 
+2. Primitiva de arctg(x/2)/(4+x^2) Ninguna era correcta
+
+2024-1
+1. revisar en el excel
+Identificar funcion dada la gráfica
+2. La primitiva de una integral
+
+2024-2
+1. Derivar una función (fácil) y evaluar en un valor determinado
+f(x)=x/(2+x^2) evaluado en raiz de 2
+2. Calcular cuantas asintotas tenía una función 

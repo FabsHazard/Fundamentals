@@ -1,0 +1,65 @@
+2019-1
+1. cálculo de masa (daban energía cinética, v angular)
+2. cálculo de alfa
+3. Cálculo de roce con aceleración
+4. Cálculo de Momento de inercia
+5. distancia máxima a la que salta un cuerpo m en un resorte considerando roce del aire (F=0,5)
+6. lanzamiento proyectil (análisis gráfico)
+7. ejercicio de rueda r en semiesfera R (estilo montaña rusa) Se pide la Normal, en comparacion al caso donde la misma esfera rueda en un plano
+8. Barra inclinada recibe 2 fuerzas en distintos angulos en cada uno de sus extremos, se pide la aceleracion del centro de masa
+9. Disco R pegado a disco 2R, el chico tiene una cuerda y se tira con velocidad V, cuál es la V del grande
+10. triángulo equilátero de largo 40, se aplica F=100N y en c/esquina hay aceleración de 4(creo); calcular masa de un lado del triángulo
+11. triángulo equilátero colgando de un apoyo, el triangulo está compuesto por 3 barras de la misma masa, 
+te dan la energia (y puede ser que la velocidad angular), y piden la masa de las barras
+2020-1
+F
+2020-2
+1. A partir de cada rebote, una pelota pierde cierto P% de altura maxima. Encontrar la función para determinar la altura maxima el k-esimo rebote
+2. Dos partículas recorren una elipse partiendo cada una de un extremo y encontrándose también en uno de los extremos .
+ Determinar la razón entre sus velocidades. El semieje mayor mide 3m y el semieje menor mide 2m
+3. Calcular fuerza de roce entre un cuerpo de masa m que esta sobre otro de masa 3m si a cada uno se le aplica una fuerza de 2mg en direcciones opuestas
+4. Cuerpo se lanza hacia arriba con v_A inmerso en fluido viscoso, calcular la fuerza de roce que tiene si solo llega a la mitad de la altura máxima que llegaría si fuese lanzado sin el fluido viscoso 
+5. Ejericio de péndulo. Tenía una w angular y pedían determinar el valor de la w^2 en función de g y L, siendo L el largo del cable del péndulo con una masa m en el extremo.
+ El ángulo que forma con respecto a una línea vertical es tetha.
+6. Dos partículas venían desde el infinito en dirección horizontal a una velocidad de 1m/s en sentido opuestas, 
+ con una distancia vertical de de 6 m. Qué pasa con sus velocidades cuando estén a menos de 10 m 
+7. Determinar la altura de la que debe ser lanzado un cuerpo que cae desde una cuña dado que en el eje horizontal tendrá un largo L con un mu = 1/3 
+y un largo L con un mu = 2/3
+8. Determinar valor de la N en el punto B, dada una masa que se lanza desde una distancia 2R en la vertical, 
+y tiene un semicírculo de radio R, donde el punto B está ubicado en la parte más baja del semicírculo
+9. Determinar valor de F´ que está entre la masa m y 2m, dada una masa que es tirada con una fuerza F en la horizontal, 
+y sabiendo que F' resiste solo 2/3 de F antes de romperse
+10. Determinar la N en dos configuraciones: disco o pelota que desliza o cae sobre otro disco o pelota versus disco o pelota que se mueve dentro de un disco o pelota
+11.  Determinar momento de inercia de una configuración con 2 masas m y una masa 2m
+12. Daban algunas medidas y había que ver qué relación estaba correcta dimensionalmente hablando
+2021-2 (online)
+
+FFFFFFFFFF
+2022-2 
+1. Bloque de masa m sobre otro bloque de masa 2m, calcular la aceleracion de 2m. Fuerza de 2mg aplicada a la derecha (para bloque arriba) y otra misma fuerza 2mg aplicada al bloque de abajo hacia la izquierda  
+2. Grafico de fuerza y x(dezplazamiento)
+3. Rapidez de un bloque que estaba horizontal (misma altura al centro del disco) dado que estaba conectado por una cuerda de 4R a un punto A (punto más afuera) del disco de radio R este disco tenia velocidad angular w , ¿Cual era la velocidad de b cuando pi =180?
+
+4. Rapidez de un bloque que estaba horizontal dado que estaba conectado por una cuerda de largo=5 a un punto A (punto más afuera) del disco de radio 3 con una velocidad angular w=2 , ¿Cual era la velocidad de b cuando pi =90?.
+Util usar pitagoras, la hipotenusa era 5, el cateto era 3 y el otro 4, por lo que la velocidad era v=rw, v=3*2=6, despues multiplicar por el coseno del angulo = 4/5, daba 4,8m/s
+
+5. Objeto de lanza hacia arriba perdiendo el 25% de su energia cinetica por el roce, calcular altura maxima | La energia que se conserva será el 75%
+6.  Ejercicio de polea, dada que se tiraba un extremo del cable con velocidad V cual era la velocidad de la masa que colgaba de otra polea(disco) conectada por el mismo cable
+7. Calcular fuerza de traccion entre 2 masas unidas por una cuerda, daban un B cte
+8. Calcular la fuerza de roce, dada una caja que se dezplazaba desde el inicio (lo mas alto) de un semicirculo hasta que se detenia, formando un angulo de 30º con el otro extremo del semicirculo, el radio era R.
+9. Calcular la velocidad angular, de dos palos unidos a un pivote en de un techo dada una velocitad tangencial v y un largo L
+10. Ecuaciones de proyectil, una pelota estaba a una altura H y a una distancia D de un punto, daban la velocidad como V
+
+2023-1
+1. fueron problemas de roce estatico, dinamico, conservacion de energia, poleas, tension y cosas rotacionales
+
+
+2024-1
+Eran 2 anillos pegadoss(masa m cada una) una al lado de la otra, unidas a una pared con un rodillo creo (lado derecho de la anilla derecha). La anilla izquierda en su punto más alejado de la pared tenía una velocidad vertical de V. cada anilla tenía radio R (eran identicas). preguntaban por la energía cinética del sistema completo. a) 2m*v^2 b) mv^2/2 c) 3/4*m*v^2 d) 3/8*m*v^2
+
+2024-2
+1. Son 3 cajas de masa 3m, 2m y m juntas una al lado de la otra (en ese orden) y se aplica una fuerza de magnitud F sobre m (hacia la izquierda). Cuál es la fuerza que ejerce 2m sobre 3m. (Roce es despreciable)
+2. Encontrará aceleración angular de una barra articulada y que en el otro extremo se dejaba caer por gravedad.
+3. Una masa puntual(m) unida a una resorte se deja caer desde la posición A por un pasador. Cual es la constante de elasticidad  cuando pasa por el punto B. Se sabe que el radio es R.  
+4. Una masa se mueve libremente por el pasador, se aplica una fuerza 4mg hacia la derecha. Cual es la aceleración??? No me acuerdo, pero el dibujo era así 
+5. Si una particula se mueve en circulos que es lo que tiene siempre?: era pregunta trampa donde te podian confundir con la velocidad tangencial o la velocidad radial (que no existe porque eso seria aceleracion)
