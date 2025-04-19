@@ -65,4 +65,10 @@ por lo que había que poner el número tal cual, además de pedirte el número t
 3. Calcular Precio a partir de CMG=IMG
 
 
-
+2025-1
+1. analizar caso, con costo hundido, de oportunidad
+2. que pasa si ponen precio máximo que es menor al precio de equilibrio
+3. equilibrio oferta demanda y que pasa si baja el precio. se genera una escazes
+4. justificacion/es de por que ocurre un monopolio natural
+5. que restriccion ponerle a un monopolio para maximizar el beneficio solcial
+6. analisis excedente al abrir al mercado internacional

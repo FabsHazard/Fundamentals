@@ -57,3 +57,12 @@ alguien sabe cual daba? [a mí me dio que ambas eran diagonalizables pero en vol
 2. Inversa matriz 
 3. Elegir si I, II o III eran correctas en relacion a propiedades de traspuestas, invertibles, etc
 4. Calcular la traspuesta de M = AB^T ^-1..., etc 
+
+2025-1
+1. A= 2B^-1* CT (con A y B dos matrices grandes pero diagonales creo y preguntaban el determinante de A
+2. Si a y b son los valores propios de una matriz de 2x2 que se puede afirmar:
+ c) si a= b= 1 la matriz es identidad d) si a es distinto a b entonces se puede diagonalizar
+3.  3 Planos intersectando preguntaban qué ecuaciones correspondían a la imagen (nunca había visto un ejercicio así de lineal) 
+Era un plano horizontal y los otros dos como una x que lo cortaban. no habia ningun numero ni eje ni nada en el dibujo
+4. Una matriz de 3x3 y habia que marcar que alternativa era cierta.
+ Habia que saber obtener la reducida de la matriz, ver si sus columnas era LD, si el sistema tenia solucion unica y si para todo b ax=b tenia solucion

@@ -23,3 +23,9 @@ FFF
 1. Aplicación de PROMEDIO.SI( )  y CONTAR.SI()
 2. Aplicación de Min()
 
+2025-1
+1. fórmula para sumar de 1 columna
+2. formula para redondear número (diferencia con truncar)
+3. formula promedio
+4. que se hace para ordenar una tabla de puntos de fútbol
+

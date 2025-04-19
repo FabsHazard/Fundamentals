@@ -89,3 +89,16 @@ Obtener probabilidad de lluvia dado que hay viento.
 7. Intervalo de confianza
 8. Teorema de probabilidades totales
 
+2025-1
+1. daban probabilidades de intersección y unión de 3 eventos, y pedían la p de 1
+2. estimación con metodo de momentos. parametro de la distribucion uniforme
+3. estimación con metodo de momentos.  estimar para la binomial, y despues reemplazar con los datos que te daban en una tablita
+4. p de un evento poisson
+5. hay 42 personas, 12 niños, 30 adultos. calcular la probabilidad que al escoger 8, salgan 3 niños y 5 adultos
+6. Entregaban una distribucion conjunta con las variables aleatorias en un rango creo que de 0 a 2, y a partir de eso habia que calcular p(x>0.5, y,4/3)
+7. Calcular una probabilidad dada la funcion de densidad -0.89e^(-0.89)
+8. bondad de ajuste con chi cuadrado - dieron la formula en una hoja aparte
+9.  Te decian que habia alguien que ganaba 1002 + un z que distribuia normal con una media y de que te daban. 
+LUego te decian cual era la probabilidad que despues ganara menos de 1000
+10.  test hipotesis chi cuadrado
+11. Regresión lineal

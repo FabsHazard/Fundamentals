@@ -35,3 +35,8 @@ Identificar funcion dada la gráfica
 1. Derivar una función (fácil) y evaluar en un valor determinado
 f(x)=x/(2+x^2) evaluado en raiz de 2
 2. Calcular cuantas asintotas tenía una función 
+2025-1
+1. Trasladar funcion ln(x)
+2. Valor de minimo absoluto
+Era una función súper simple de grado 3, con dominio [0, 2],
+ y en el enunciado decían que el único punto crítico era 1 y te pedían entonces el mínimo absoluto (simplemente evaluar f(1)).

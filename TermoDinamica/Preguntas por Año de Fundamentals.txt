@@ -58,3 +58,10 @@ En 2 de ellas nos pidieron la entropìa y como datos nos dieron la temperatura e
 FFF
 2024-2
 FFF
+2025-1
+1. Preguntan por nuevas temperatura final al juntar alcohol y agua, te daban temperaturas iniciales y calores especificos y masas
+2. Preguntaban si aumentaba la entropia  en un punto de equilibrio
+3. temperatura final de juntar dos sustancias, una con calor especifico c y otro con 3c. Daban las temperaturas
+4. Cámara de mezclado - procesó transitorio: cual es el calor efectuado si entra masa de una mezcla de líquido vapor con calidad 60% a una tasa de 8kg/s a 75 C y
+ sale un líquido saturado a tasa 2kg/s y un vapor saturado a 6kg/s (ambos a 95 C)
+

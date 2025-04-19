@@ -52,3 +52,13 @@ Daban la forma de x (sus coordenadas), y pedían describir la forma de las prime
 1. Sistema 2x2.
 2. Solucion de una EDO de segundo orden no homogenea, solo recuerdo que tenia un coseno.
 3. Resolver EDO por medio de valores y vectores propios.
+
+2025-1
+1. u''(x) - u(x) = 4e^t , ver cual de las alternativas era una solucion particular.
+Qué era una solución particular? 
+Según yo era la solución de la parte no homogenea de una EDO lineal. Solamente era necesario despejar las alternativas en la EDO dada, era 2te^t creo.
+2. 
+una matriz A multiplicada por un vector daba un vector y multiplicada por otro daba otro vector.
+ A partir de eso pedian algo asi como el limite de e^(A(t)) y algo mas creo. las alternativas eran todos vectores
+3. Resolver una edo separable con condiciones iniciales, Esta era EDO separable? Era dx/dt = t/(x')   (ojo que el denominador a la derecha es x prima)
+4.

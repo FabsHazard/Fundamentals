@@ -61,3 +61,8 @@ preguntaban por si era paralela a una recta (saber si era recta o plano) o si la
 3. Integral area entre 2 funciones
 4. Cual de las siguientes ecuaciones no forma un plano
  
+2025-1
+1. calcular integral
+2. Calcular la integral de (x -2)^2 = |4-x|
+3. Dos puntos y preguntaban qué alternativa no era igual a la ecuación de la recta de ese punto
+4. (-1)^n/ n^2 converge  

@@ -49,3 +49,7 @@
 1. Curvas nivel
 2. Curvas nivel
 3. Volumen en coordenadas cilindricas | Te daban la formula del volumen, solo habia que integrar
+
+2025-1  
+1. Volumen entre z1= x^2 + y^2 y z2= 8-x^2-y^2
+2. Pedian el gradiente en el punto (-1,0) de una grafica rara

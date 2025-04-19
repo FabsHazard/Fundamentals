@@ -52,3 +52,5 @@ F
 F
 2024-2
 F
+2025-1
+1. cuatro cajas de resistores como un cuadrado, preguntaban cual era su R en el eje x, y, z  

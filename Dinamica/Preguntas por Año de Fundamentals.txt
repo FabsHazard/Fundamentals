@@ -63,3 +63,7 @@ Eran 2 anillos pegadoss(masa m cada una) una al lado de la otra, unidas a una pa
 3. Una masa puntual(m) unida a una resorte se deja caer desde la posición A por un pasador. Cual es la constante de elasticidad  cuando pasa por el punto B. Se sabe que el radio es R.  
 4. Una masa se mueve libremente por el pasador, se aplica una fuerza 4mg hacia la derecha. Cual es la aceleración??? No me acuerdo, pero el dibujo era así 
 5. Si una particula se mueve en circulos que es lo que tiene siempre?: era pregunta trampa donde te podian confundir con la velocidad tangencial o la velocidad radial (que no existe porque eso seria aceleracion)
+
+2025-1
+1. Pregunta de ascensor. 
+Al subir el ascensor ejerce fuerza de 0,8 g para arriba y te preguntan de cuanto seria el % de aumento del peso de una persona asumiendo peso mg

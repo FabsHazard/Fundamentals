@@ -27,3 +27,12 @@
 3. elegir el codigo donde "num" fuera multiplo de 7 y booleano False
 2024-2
 1. La mayoría era uso de ciclos que cambiaban listas, contanban letras repetidas, veian de la sección de una palabra estaba dentro de otra, etc
+2025-1
+1. multiplicación de tres int().
+Era de la forma int(numero)*int(numero)*int(numero) donde cada número era un float (por ejemplo, 4.9).
+ Había que identificar que al hacer int() sobre un número decimal, Python trunca el número.
+2. cuantas veces se llama a una funcion recursiva
+3. analisis de un codigo y preguntaban que hacia. Era un codigo que buscaba si un elemento estaba en una lista
+4. X = input. Y = input. suma = x + y
+5. Un while y con que valor quedaba al final una variable
+6. un while que luego con un if verificaba si cierto numero era par mediante %. Y mediante eso ir suamando una variable i y su secuencia.
